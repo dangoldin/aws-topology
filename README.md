@@ -8,3 +8,4 @@ Steps:
 - Get all instances, VPCs, Security Groups, ELBs
 - Group all instances by ELB
 - Find relationship between security groups, vpcs, and instances
+- Visualize the above
